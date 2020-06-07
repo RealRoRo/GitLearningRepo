@@ -4,7 +4,7 @@ class for_loops	{
 			System.out.println(i);
 			
 			
-			System.out.println("Done with for loops")
+			System.out.println("Done with for loops");
 		}
 	}
 }
